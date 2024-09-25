@@ -1,0 +1,1493 @@
+사용자 ID,나이,성별,지역,소셜 로그인 제공자,가입 경로,연동된 소셜 계정 수
+1001,45,Female,대구,KakaoTalk,Social Login,2
+1002,34,Male,기타 지방,Naver,Social Login,2
+1003,29,Female,울산,-,Email Signup,0
+1004,19,Female,인천,KakaoTalk,Social Login,2
+1005,55,Female,서울,Naver,Social Login,3
+1006,41,Female,부산,Naver,Social Login,1
+1007,51,Male,경기,Naver,Social Login,3
+1008,25,Male,대구,Google(Gmail),Social Login,2
+1009,24,Female,서울,-,Phone Signup,0
+1010,19,Male,대전,Google(Gmail),Social Login,2
+1011,20,Female,대구,KakaoTalk,Social Login,2
+1012,52,Male,대구,Naver,Social Login,1
+1013,23,Male,경기,-,Email Signup,0
+1014,33,Female,광주,-,Phone Signup,0
+1015,48,Male,경기,Naver,Social Login,2
+1016,36,Male,광주,Naver,Social Login,1
+1017,39,Male,인천,Naver,Social Login,3
+1018,30,Female,인천,Google(Gmail),Social Login,2
+1019,24,Female,부산,Google(Gmail),Social Login,3
+1020,25,Female,서울,-,Email Signup,0
+1021,21,Male,인천,-,Phone Signup,0
+1022,30,Female,기타 지방,-,Phone Signup,0
+1023,64,Female,서울,Naver,Social Login,3
+1024,20,Female,기타 지방,Naver,Social Login,3
+1025,26,Female,인천,-,Phone Signup,0
+1026,26,Male,울산,Naver,Social Login,2
+1027,22,Female,서울,Naver,Social Login,2
+1028,22,Female,경기,-,Email Signup,0
+1029,49,Male,인천,-,Phone Signup,0
+1030,30,Female,경기,Naver,Social Login,2
+1031,31,Female,울산,KakaoTalk,Social Login,2
+1032,28,Male,대전,-,Email Signup,0
+1033,52,Male,기타 지방,Naver,Social Login,2
+1034,27,Female,광주,-,Email Signup,0
+1035,35,Male,대구,Naver,Social Login,1
+1036,33,Female,기타 지방,KakaoTalk,Social Login,1
+1037,55,Male,대구,-,Email Signup,0
+1038,33,Female,인천,Naver,Social Login,2
+1039,51,Female,부산,-,Email Signup,0
+1040,32,Male,경기,KakaoTalk,Social Login,1
+1041,41,Female,경기,-,Phone Signup,0
+1042,18,Male,기타 지방,Naver,Social Login,1
+1043,23,Female,울산,KakaoTalk,Social Login,2
+1044,22,Male,울산,-,Phone Signup,0
+1045,33,Female,대구,KakaoTalk,Social Login,3
+1046,19,Male,광주,Naver,Social Login,3
+1047,35,Female,울산,Naver,Social Login,2
+1048,23,Male,서울,-,Phone Signup,0
+1049,42,Female,대전,KakaoTalk,Social Login,3
+1050,23,Male,광주,Naver,Social Login,1
+1051,34,Female,대전,-,Email Signup,0
+1052,35,Male,기타 지방,-,Email Signup,0
+1053,54,Male,기타 지방,Naver,Social Login,1
+1054,61,Male,인천,Naver,Social Login,1
+1055,33,Female,기타 지방,Naver,Social Login,3
+1056,18,Female,인천,KakaoTalk,Social Login,3
+1057,28,Female,대구,Naver,Social Login,2
+1058,32,Male,울산,Naver,Social Login,2
+1059,19,Male,대구,Naver,Social Login,2
+1060,24,Male,서울,Naver,Social Login,1
+1061,32,Male,대구,Naver,Social Login,1
+1062,22,Female,대구,KakaoTalk,Social Login,3
+1063,61,Female,울산,-,Email Signup,0
+1064,23,Female,인천,Naver,Social Login,1
+1065,62,Female,서울,-,Phone Signup,0
+1066,21,Male,경기,Naver,Social Login,3
+1067,35,Female,경기,Naver,Social Login,1
+1068,54,Male,울산,-,Email Signup,0
+1069,26,Female,대전,-,Phone Signup,0
+1070,32,Male,광주,Naver,Social Login,3
+1071,42,Male,경기,-,Phone Signup,0
+1072,32,Female,울산,KakaoTalk,Social Login,2
+1073,29,Male,경기,Naver,Social Login,2
+1074,45,Male,서울,Naver,Social Login,2
+1075,19,Male,부산,Naver,Social Login,1
+1076,46,Female,대전,Naver,Social Login,1
+1077,18,Male,광주,-,Email Signup,0
+1078,29,Female,인천,KakaoTalk,Social Login,2
+1079,25,Female,울산,-,Email Signup,0
+1080,20,Female,대전,Google(Gmail),Social Login,2
+1081,25,Male,서울,Naver,Social Login,3
+1082,20,Male,대구,Google(Gmail),Social Login,2
+1083,22,Female,경기,KakaoTalk,Social Login,3
+1084,34,Male,대구,Naver,Social Login,2
+1085,22,Male,울산,Naver,Social Login,2
+1086,32,Female,기타 지방,Naver,Social Login,1
+1087,22,Male,대전,-,Email Signup,0
+1088,30,Female,인천,Naver,Social Login,1
+1089,31,Male,인천,KakaoTalk,Social Login,3
+1090,19,Male,광주,Google(Gmail),Social Login,3
+1091,27,Male,대구,Google(Gmail),Social Login,2
+1092,31,Male,광주,-,Email Signup,0
+1093,22,Male,광주,Google(Gmail),Social Login,2
+1094,27,Female,서울,-,Email Signup,0
+1095,28,Male,부산,-,Email Signup,0
+1096,41,Male,대전,KakaoTalk,Social Login,1
+1097,29,Male,인천,Google(Gmail),Social Login,2
+1098,26,Male,울산,Naver,Social Login,3
+1099,30,Male,대구,-,Email Signup,0
+1100,34,Male,울산,Naver,Social Login,2
+1101,37,Male,경기,KakaoTalk,Social Login,2
+1102,25,Male,대전,-,Phone Signup,0
+1103,21,Female,인천,KakaoTalk,Social Login,1
+1104,29,Male,인천,-,Email Signup,0
+1105,32,Female,서울,-,Email Signup,0
+1106,36,Male,대전,-,Email Signup,0
+1107,52,Male,대구,Naver,Social Login,2
+1108,26,Female,대전,Google(Gmail),Social Login,3
+1109,60,Female,인천,Naver,Social Login,3
+1110,27,Male,서울,Google(Gmail),Social Login,3
+1111,23,Male,울산,Google(Gmail),Social Login,2
+1112,33,Female,서울,KakaoTalk,Social Login,3
+1113,31,Female,부산,KakaoTalk,Social Login,3
+1114,21,Male,대전,Naver,Social Login,2
+1115,50,Female,대전,Naver,Social Login,3
+1116,25,Male,인천,Google(Gmail),Social Login,3
+1117,58,Male,울산,Naver,Social Login,1
+1118,50,Male,서울,-,Email Signup,0
+1119,29,Female,대구,Naver,Social Login,3
+1120,33,Female,대전,KakaoTalk,Social Login,1
+1121,62,Male,부산,Naver,Social Login,3
+1122,43,Female,경기,Naver,Social Login,1
+1123,20,Female,인천,Naver,Social Login,1
+1124,33,Male,인천,Naver,Social Login,1
+1125,31,Female,대전,Naver,Social Login,3
+1126,25,Male,기타 지방,Google(Gmail),Social Login,1
+1127,50,Male,대구,-,Email Signup,0
+1128,33,Male,서울,KakaoTalk,Social Login,2
+1129,31,Female,서울,KakaoTalk,Social Login,3
+1130,25,Male,울산,-,Phone Signup,0
+1131,21,Male,광주,Naver,Social Login,3
+1132,41,Female,인천,-,Phone Signup,0
+1133,38,Male,서울,KakaoTalk,Social Login,3
+1134,32,Male,울산,KakaoTalk,Social Login,3
+1135,32,Male,경기,Naver,Social Login,3
+1136,30,Female,경기,Google(Gmail),Social Login,1
+1137,18,Female,기타 지방,-,Email Signup,0
+1138,61,Female,서울,Naver,Social Login,1
+1139,18,Male,서울,-,Email Signup,0
+1140,22,Male,부산,Google(Gmail),Social Login,1
+1141,19,Female,대전,-,Email Signup,0
+1142,19,Male,경기,-,Email Signup,0
+1143,24,Female,경기,-,Email Signup,0
+1144,65,Female,광주,Naver,Social Login,2
+1145,20,Male,경기,Google(Gmail),Social Login,1
+1146,20,Female,광주,-,Email Signup,0
+1147,35,Male,부산,KakaoTalk,Social Login,2
+1148,26,Female,부산,-,Phone Signup,0
+1149,34,Female,광주,Naver,Social Login,1
+1150,39,Male,울산,-,Email Signup,0
+1151,22,Female,인천,-,Email Signup,0
+1152,30,Female,대전,-,Phone Signup,0
+1153,58,Female,부산,-,Phone Signup,0
+1154,38,Male,기타 지방,-,Phone Signup,0
+1155,26,Male,대전,-,Phone Signup,0
+1156,28,Male,부산,Google(Gmail),Social Login,2
+1157,22,Female,대구,-,Phone Signup,0
+1158,23,Male,대구,Naver,Social Login,3
+1159,46,Female,기타 지방,KakaoTalk,Social Login,1
+1160,63,Male,대구,Naver,Social Login,1
+1161,18,Female,경기,Google(Gmail),Social Login,3
+1162,22,Male,서울,Naver,Social Login,3
+1163,31,Female,울산,-,Email Signup,0
+1164,32,Female,인천,Naver,Social Login,3
+1165,51,Male,울산,-,Phone Signup,0
+1166,19,Male,인천,Google(Gmail),Social Login,3
+1167,30,Female,광주,-,Email Signup,0
+1168,31,Male,광주,Naver,Social Login,3
+1169,31,Female,경기,Naver,Social Login,3
+1170,33,Male,광주,-,Email Signup,0
+1171,55,Female,인천,-,Phone Signup,0
+1172,28,Female,인천,Naver,Social Login,2
+1173,21,Male,울산,Naver,Social Login,2
+1174,23,Female,기타 지방,Google(Gmail),Social Login,3
+1175,23,Female,대구,-,Phone Signup,0
+1176,60,Male,울산,-,Email Signup,0
+1177,49,Female,인천,KakaoTalk,Social Login,2
+1178,60,Male,인천,-,Phone Signup,0
+1179,27,Female,인천,Google(Gmail),Social Login,3
+1180,18,Male,부산,-,Email Signup,0
+1181,25,Male,광주,Google(Gmail),Social Login,3
+1182,27,Female,대전,KakaoTalk,Social Login,3
+1183,23,Male,부산,Naver,Social Login,2
+1184,25,Male,대전,Google(Gmail),Social Login,1
+1185,22,Female,대전,Naver,Social Login,2
+1186,55,Male,서울,-,Phone Signup,0
+1187,25,Male,기타 지방,Naver,Social Login,1
+1188,61,Female,광주,Naver,Social Login,3
+1189,20,Female,울산,-,Phone Signup,0
+1190,21,Male,인천,Naver,Social Login,1
+1191,29,Male,기타 지방,Naver,Social Login,1
+1192,24,Male,대전,Naver,Social Login,1
+1193,35,Male,경기,KakaoTalk,Social Login,3
+1194,30,Female,서울,-,Email Signup,0
+1195,30,Male,대구,-,Email Signup,0
+1196,29,Male,대전,-,Email Signup,0
+1197,22,Male,경기,Google(Gmail),Social Login,3
+1198,35,Female,경기,Naver,Social Login,3
+1199,26,Male,인천,Naver,Social Login,1
+1200,32,Female,대구,-,Email Signup,0
+1201,30,Female,대전,Naver,Social Login,1
+1202,32,Female,대구,-,Email Signup,0
+1203,34,Male,광주,-,Phone Signup,0
+1204,30,Male,울산,-,Email Signup,0
+1205,21,Male,인천,Naver,Social Login,1
+1206,32,Female,대구,-,Phone Signup,0
+1207,26,Male,경기,-,Email Signup,0
+1208,23,Female,인천,KakaoTalk,Social Login,1
+1209,30,Female,광주,KakaoTalk,Social Login,1
+1210,34,Male,기타 지방,Naver,Social Login,2
+1211,22,Female,인천,KakaoTalk,Social Login,2
+1212,33,Female,대구,KakaoTalk,Social Login,2
+1213,22,Female,부산,Google(Gmail),Social Login,3
+1214,32,Female,기타 지방,Naver,Social Login,2
+1215,46,Female,대전,KakaoTalk,Social Login,3
+1216,26,Male,경기,Naver,Social Login,2
+1217,30,Male,경기,-,Email Signup,0
+1218,33,Male,울산,-,Email Signup,0
+1219,47,Male,서울,KakaoTalk,Social Login,3
+1220,35,Female,광주,-,Phone Signup,0
+1221,31,Male,부산,Naver,Social Login,2
+1222,25,Male,서울,Naver,Social Login,3
+1223,29,Male,대전,-,Email Signup,0
+1224,29,Female,대구,-,Email Signup,0
+1225,51,Male,경기,Naver,Social Login,2
+1226,23,Female,대전,-,Email Signup,0
+1227,33,Male,경기,-,Phone Signup,0
+1228,21,Male,울산,Google(Gmail),Social Login,1
+1229,24,Male,대전,Naver,Social Login,2
+1230,62,Male,경기,Naver,Social Login,2
+1231,31,Female,인천,Naver,Social Login,3
+1232,33,Male,울산,Naver,Social Login,3
+1233,64,Female,대구,Naver,Social Login,3
+1234,34,Male,서울,-,Email Signup,0
+1235,26,Male,대전,Google(Gmail),Social Login,2
+1236,24,Male,광주,Google(Gmail),Social Login,1
+1237,63,Male,광주,Naver,Social Login,1
+1238,18,Male,부산,Google(Gmail),Social Login,3
+1239,33,Female,부산,KakaoTalk,Social Login,1
+1240,46,Male,광주,-,Email Signup,0
+1241,37,Female,대전,-,Email Signup,0
+1242,48,Male,부산,-,Phone Signup,0
+1243,59,Male,광주,Naver,Social Login,3
+1244,26,Female,경기,Naver,Social Login,3
+1245,43,Female,대구,-,Email Signup,0
+1246,20,Male,경기,Google(Gmail),Social Login,3
+1247,35,Female,인천,Naver,Social Login,3
+1248,22,Male,경기,Naver,Social Login,3
+1249,57,Male,대구,-,Email Signup,0
+1250,31,Male,부산,Naver,Social Login,3
+1251,21,Female,부산,KakaoTalk,Social Login,1
+1252,31,Female,광주,Naver,Social Login,1
+1253,62,Female,울산,-,Email Signup,0
+1254,43,Female,경기,KakaoTalk,Social Login,3
+1255,28,Female,인천,KakaoTalk,Social Login,2
+1256,56,Female,대전,-,Email Signup,0
+1257,60,Female,울산,Naver,Social Login,2
+1258,21,Female,광주,-,Email Signup,0
+1259,29,Male,경기,Naver,Social Login,1
+1260,24,Male,부산,Google(Gmail),Social Login,1
+1261,31,Male,서울,KakaoTalk,Social Login,2
+1262,32,Female,기타 지방,KakaoTalk,Social Login,1
+1263,32,Male,부산,KakaoTalk,Social Login,3
+1264,30,Female,광주,-,Phone Signup,0
+1265,54,Male,대전,Naver,Social Login,2
+1266,58,Male,광주,Naver,Social Login,1
+1267,31,Female,대전,-,Email Signup,0
+1268,24,Male,광주,Google(Gmail),Social Login,1
+1269,56,Female,경기,Naver,Social Login,2
+1270,18,Male,인천,Naver,Social Login,3
+1271,27,Male,대전,Google(Gmail),Social Login,1
+1272,64,Male,기타 지방,Naver,Social Login,1
+1273,18,Female,경기,Naver,Social Login,3
+1274,35,Male,경기,-,Email Signup,0
+1275,22,Female,경기,Google(Gmail),Social Login,3
+1276,25,Male,기타 지방,-,Email Signup,0
+1277,22,Male,경기,Google(Gmail),Social Login,1
+1278,34,Male,경기,-,Email Signup,0
+1279,50,Female,서울,Naver,Social Login,3
+1280,31,Male,울산,-,Email Signup,0
+1281,22,Male,광주,Naver,Social Login,1
+1282,28,Male,부산,Naver,Social Login,1
+1283,30,Female,대전,Google(Gmail),Social Login,2
+1284,42,Male,대구,-,Email Signup,0
+1285,32,Female,대구,Naver,Social Login,1
+1286,33,Female,광주,-,Email Signup,0
+1287,29,Female,대구,Naver,Social Login,2
+1288,20,Male,경기,Naver,Social Login,2
+1289,56,Male,대전,Naver,Social Login,1
+1290,21,Female,부산,Naver,Social Login,2
+1291,26,Male,광주,Naver,Social Login,3
+1292,24,Female,경기,-,Email Signup,0
+1293,36,Female,대구,Naver,Social Login,1
+1294,33,Female,광주,KakaoTalk,Social Login,2
+1295,27,Female,대전,-,Email Signup,0
+1296,35,Male,부산,Naver,Social Login,2
+1297,42,Male,경기,-,Email Signup,0
+1298,28,Female,기타 지방,-,Phone Signup,0
+1299,51,Female,인천,-,Email Signup,0
+1300,29,Male,대구,Naver,Social Login,1
+1301,45,Female,대전,Naver,Social Login,3
+1302,31,Male,대전,KakaoTalk,Social Login,2
+1303,25,Female,인천,Naver,Social Login,2
+1304,20,Male,인천,Naver,Social Login,3
+1305,25,Male,인천,Naver,Social Login,2
+1306,32,Male,울산,-,Email Signup,0
+1307,29,Male,광주,-,Phone Signup,0
+1308,19,Female,울산,Google(Gmail),Social Login,1
+1309,25,Male,광주,-,Email Signup,0
+1310,33,Female,인천,-,Email Signup,0
+1311,19,Male,기타 지방,Google(Gmail),Social Login,2
+1312,64,Female,경기,-,Email Signup,0
+1313,21,Male,서울,Naver,Social Login,2
+1314,19,Male,대전,Naver,Social Login,3
+1315,21,Female,대구,-,Email Signup,0
+1316,22,Male,서울,Naver,Social Login,1
+1317,49,Female,광주,-,Phone Signup,0
+1318,58,Male,대전,Naver,Social Login,3
+1319,65,Female,울산,Naver,Social Login,3
+1320,33,Female,기타 지방,KakaoTalk,Social Login,3
+1321,33,Female,울산,KakaoTalk,Social Login,2
+1322,20,Female,인천,Naver,Social Login,3
+1323,19,Female,광주,-,Email Signup,0
+1324,23,Male,대전,Naver,Social Login,3
+1325,24,Male,부산,Google(Gmail),Social Login,2
+1326,48,Female,기타 지방,KakaoTalk,Social Login,1
+1327,43,Male,부산,-,Phone Signup,0
+1328,46,Male,서울,-,Phone Signup,0
+1329,64,Female,부산,Naver,Social Login,1
+1330,26,Male,서울,-,Phone Signup,0
+1331,29,Male,대구,Naver,Social Login,3
+1332,27,Female,울산,Naver,Social Login,3
+1333,56,Female,경기,-,Phone Signup,0
+1334,35,Female,부산,KakaoTalk,Social Login,2
+1335,24,Male,기타 지방,Google(Gmail),Social Login,2
+1336,20,Male,울산,Google(Gmail),Social Login,1
+1337,21,Female,대구,Naver,Social Login,2
+1338,30,Male,인천,-,Phone Signup,0
+1339,21,Female,대구,-,Phone Signup,0
+1340,24,Male,인천,Google(Gmail),Social Login,1
+1341,23,Male,서울,Google(Gmail),Social Login,1
+1342,27,Male,서울,Naver,Social Login,3
+1343,32,Male,서울,Naver,Social Login,2
+1344,23,Male,대구,-,Email Signup,0
+1345,24,Male,대구,-,Email Signup,0
+1346,40,Female,경기,-,Email Signup,0
+1347,32,Male,경기,-,Email Signup,0
+1348,30,Male,경기,-,Email Signup,0
+1349,33,Female,인천,-,Phone Signup,0
+1350,23,Male,경기,-,Email Signup,0
+1351,33,Male,울산,KakaoTalk,Social Login,1
+1352,20,Female,경기,-,Email Signup,0
+1353,18,Male,울산,Google(Gmail),Social Login,1
+1354,22,Female,서울,-,Email Signup,0
+1355,26,Female,경기,-,Phone Signup,0
+1356,28,Female,경기,Google(Gmail),Social Login,1
+1357,33,Male,인천,KakaoTalk,Social Login,2
+1358,28,Female,기타 지방,Naver,Social Login,1
+1359,32,Female,울산,KakaoTalk,Social Login,2
+1360,21,Male,경기,-,Email Signup,0
+1361,56,Male,울산,Naver,Social Login,3
+1362,33,Male,울산,Naver,Social Login,1
+1363,56,Female,광주,-,Email Signup,0
+1364,26,Female,대전,KakaoTalk,Social Login,2
+1365,42,Male,서울,Naver,Social Login,2
+1366,34,Male,광주,KakaoTalk,Social Login,2
+1367,27,Female,경기,-,Email Signup,0
+1368,35,Male,광주,KakaoTalk,Social Login,3
+1369,33,Male,인천,Naver,Social Login,1
+1370,42,Male,부산,KakaoTalk,Social Login,2
+1371,34,Male,울산,Naver,Social Login,1
+1372,33,Female,대전,KakaoTalk,Social Login,2
+1373,28,Female,광주,Naver,Social Login,3
+1374,22,Female,광주,Naver,Social Login,3
+1375,21,Male,대구,Naver,Social Login,2
+1376,50,Female,서울,KakaoTalk,Social Login,1
+1377,31,Female,인천,Naver,Social Login,2
+1378,18,Male,인천,Google(Gmail),Social Login,3
+1379,32,Male,대구,Naver,Social Login,3
+1380,22,Female,광주,KakaoTalk,Social Login,3
+1381,26,Male,울산,Google(Gmail),Social Login,1
+1382,35,Male,부산,Naver,Social Login,1
+1383,19,Male,부산,Google(Gmail),Social Login,3
+1384,34,Female,인천,Naver,Social Login,3
+1385,54,Male,대구,Naver,Social Login,2
+1386,33,Male,대구,-,Email Signup,0
+1387,24,Male,기타 지방,-,Email Signup,0
+1388,52,Female,울산,-,Email Signup,0
+1389,35,Male,기타 지방,Naver,Social Login,2
+1390,34,Male,대전,-,Phone Signup,0
+1391,24,Female,기타 지방,-,Phone Signup,0
+1392,48,Female,부산,Naver,Social Login,1
+1393,51,Female,대구,Naver,Social Login,2
+1394,43,Male,대전,Naver,Social Login,3
+1395,52,Male,광주,-,Phone Signup,0
+1396,26,Male,광주,Naver,Social Login,1
+1397,27,Male,부산,Google(Gmail),Social Login,2
+1398,32,Male,부산,KakaoTalk,Social Login,2
+1399,41,Male,서울,KakaoTalk,Social Login,2
+1400,32,Female,울산,-,Email Signup,0
+1401,33,Male,기타 지방,-,Phone Signup,0
+1402,37,Female,울산,-,Phone Signup,0
+1403,52,Male,대구,Naver,Social Login,1
+1404,33,Female,서울,KakaoTalk,Social Login,2
+1405,22,Female,경기,-,Email Signup,0
+1406,25,Male,인천,Google(Gmail),Social Login,2
+1407,47,Male,기타 지방,-,Email Signup,0
+1408,39,Male,기타 지방,-,Email Signup,0
+1409,20,Male,부산,Google(Gmail),Social Login,1
+1410,29,Female,울산,KakaoTalk,Social Login,2
+1411,24,Male,기타 지방,Google(Gmail),Social Login,1
+1412,30,Male,기타 지방,Google(Gmail),Social Login,2
+1413,40,Female,대구,KakaoTalk,Social Login,1
+1414,18,Male,기타 지방,Google(Gmail),Social Login,3
+1415,23,Female,대전,Google(Gmail),Social Login,2
+1416,20,Female,서울,Naver,Social Login,2
+1417,25,Female,울산,Naver,Social Login,2
+1418,28,Male,광주,Google(Gmail),Social Login,2
+1419,21,Male,울산,-,Email Signup,0
+1420,32,Female,울산,Naver,Social Login,1
+1421,31,Female,광주,-,Email Signup,0
+1422,28,Male,대구,Naver,Social Login,2
+1423,36,Female,부산,-,Email Signup,0
+1424,19,Female,울산,-,Email Signup,0
+1425,33,Female,대구,-,Email Signup,0
+1426,21,Female,대전,-,Email Signup,0
+1427,30,Male,서울,-,Phone Signup,0
+1428,34,Male,부산,Naver,Social Login,1
+1429,19,Male,서울,Google(Gmail),Social Login,3
+1430,20,Female,대전,-,Email Signup,0
+1431,29,Male,대구,-,Email Signup,0
+1432,63,Male,인천,Naver,Social Login,2
+1433,31,Female,부산,Naver,Social Login,1
+1434,27,Female,인천,KakaoTalk,Social Login,3
+1435,29,Male,울산,Google(Gmail),Social Login,1
+1436,24,Male,대구,Naver,Social Login,3
+1437,46,Male,울산,Naver,Social Login,3
+1438,57,Female,대전,-,Email Signup,0
+1439,36,Male,광주,Naver,Social Login,1
+1440,56,Female,경기,-,Email Signup,0
+1441,52,Male,울산,Naver,Social Login,3
+1442,34,Male,경기,-,Email Signup,0
+1443,18,Female,대구,Google(Gmail),Social Login,2
+1444,28,Male,기타 지방,-,Email Signup,0
+1445,34,Female,부산,Naver,Social Login,3
+1446,41,Male,기타 지방,KakaoTalk,Social Login,1
+1447,20,Female,서울,Naver,Social Login,1
+1448,35,Male,대구,Naver,Social Login,1
+1449,31,Male,인천,-,Email Signup,0
+1450,52,Female,대전,Naver,Social Login,3
+1451,20,Female,인천,KakaoTalk,Social Login,1
+1452,35,Female,대전,KakaoTalk,Social Login,3
+1453,60,Female,부산,-,Phone Signup,0
+1454,56,Male,대전,Naver,Social Login,2
+1455,45,Male,기타 지방,KakaoTalk,Social Login,2
+1456,30,Male,대구,-,Email Signup,0
+1457,19,Female,광주,KakaoTalk,Social Login,2
+1458,26,Female,광주,KakaoTalk,Social Login,1
+1459,22,Female,대구,Naver,Social Login,2
+1460,29,Female,광주,-,Email Signup,0
+1461,62,Female,서울,-,Phone Signup,0
+1462,18,Female,대전,Google(Gmail),Social Login,2
+1463,33,Male,울산,Naver,Social Login,3
+1464,27,Female,인천,KakaoTalk,Social Login,3
+1465,62,Male,대구,Naver,Social Login,1
+1466,20,Female,서울,Google(Gmail),Social Login,1
+1467,32,Female,인천,KakaoTalk,Social Login,2
+1468,23,Female,인천,Google(Gmail),Social Login,1
+1469,20,Male,경기,Naver,Social Login,3
+1470,49,Male,대구,KakaoTalk,Social Login,3
+1471,35,Male,대구,Naver,Social Login,3
+1472,25,Male,인천,-,Phone Signup,0
+1473,43,Female,기타 지방,Naver,Social Login,2
+1474,24,Male,부산,Google(Gmail),Social Login,1
+1475,29,Male,광주,Google(Gmail),Social Login,3
+1476,30,Female,기타 지방,-,Email Signup,0
+1477,28,Male,기타 지방,Naver,Social Login,3
+1478,29,Female,대구,Google(Gmail),Social Login,2
+1479,29,Male,서울,-,Email Signup,0
+1480,26,Female,대구,Google(Gmail),Social Login,3
+1481,28,Female,기타 지방,KakaoTalk,Social Login,1
+1482,33,Female,인천,-,Email Signup,0
+1483,34,Male,기타 지방,Naver,Social Login,3
+1484,21,Female,인천,Naver,Social Login,3
+1485,28,Female,경기,Naver,Social Login,1
+1486,31,Male,대전,-,Email Signup,0
+1487,65,Female,광주,Naver,Social Login,3
+1488,29,Female,인천,Naver,Social Login,1
+1489,30,Male,울산,Google(Gmail),Social Login,2
+1490,29,Male,서울,Naver,Social Login,2
+1491,27,Male,대구,-,Email Signup,0
+1492,23,Male,광주,-,Phone Signup,0
+1493,34,Female,경기,KakaoTalk,Social Login,2
+1494,23,Male,광주,-,Email Signup,0
+1495,35,Female,서울,-,Email Signup,0
+1496,24,Male,대전,Naver,Social Login,1
+1497,24,Male,대전,Google(Gmail),Social Login,1
+1498,50,Male,서울,Naver,Social Login,2
+1499,33,Male,인천,KakaoTalk,Social Login,3
+1500,61,Male,대구,Naver,Social Login,3
+1501,41,Male,경기,-,Email Signup,0
+1502,38,Female,기타 지방,-,Email Signup,0
+1503,29,Female,기타 지방,Naver,Social Login,1
+1504,24,Female,울산,Naver,Social Login,2
+1505,27,Male,울산,Google(Gmail),Social Login,2
+1506,42,Female,부산,KakaoTalk,Social Login,2
+1507,29,Female,대전,Naver,Social Login,3
+1508,61,Male,광주,Naver,Social Login,1
+1509,59,Female,인천,Naver,Social Login,2
+1510,39,Male,기타 지방,Naver,Social Login,2
+1511,46,Female,경기,Naver,Social Login,2
+1512,65,Male,기타 지방,-,Phone Signup,0
+1513,25,Female,기타 지방,Naver,Social Login,2
+1514,20,Female,울산,-,Email Signup,0
+1515,30,Female,경기,Naver,Social Login,1
+1516,25,Female,대전,KakaoTalk,Social Login,2
+1517,48,Male,인천,-,Phone Signup,0
+1518,21,Female,광주,-,Phone Signup,0
+1519,20,Female,울산,KakaoTalk,Social Login,2
+1520,34,Female,서울,Naver,Social Login,1
+1521,33,Male,서울,Naver,Social Login,3
+1522,29,Male,울산,Naver,Social Login,2
+1523,29,Male,인천,Google(Gmail),Social Login,3
+1524,29,Female,기타 지방,KakaoTalk,Social Login,1
+1525,30,Female,기타 지방,-,Phone Signup,0
+1526,50,Male,광주,-,Email Signup,0
+1527,34,Female,서울,KakaoTalk,Social Login,3
+1528,34,Male,광주,KakaoTalk,Social Login,2
+1529,23,Male,서울,Naver,Social Login,1
+1530,61,Female,광주,Naver,Social Login,2
+1531,18,Male,서울,Naver,Social Login,1
+1532,26,Female,경기,Google(Gmail),Social Login,1
+1533,34,Male,경기,KakaoTalk,Social Login,1
+1534,36,Male,울산,KakaoTalk,Social Login,1
+1535,61,Female,울산,Naver,Social Login,1
+1536,33,Male,광주,KakaoTalk,Social Login,1
+1537,22,Female,광주,KakaoTalk,Social Login,1
+1538,26,Female,대구,Naver,Social Login,1
+1539,23,Male,광주,Google(Gmail),Social Login,1
+1540,37,Female,대구,-,Email Signup,0
+1541,27,Female,경기,KakaoTalk,Social Login,2
+1542,31,Male,인천,Naver,Social Login,3
+1543,30,Male,서울,Naver,Social Login,3
+1544,58,Female,부산,Naver,Social Login,1
+1545,58,Female,경기,Naver,Social Login,3
+1546,43,Male,경기,KakaoTalk,Social Login,1
+1547,55,Male,대구,Naver,Social Login,2
+1548,27,Male,부산,-,Phone Signup,0
+1549,23,Female,서울,KakaoTalk,Social Login,3
+1550,60,Male,부산,Naver,Social Login,3
+1551,44,Male,대전,KakaoTalk,Social Login,3
+1552,24,Female,인천,-,Email Signup,0
+1553,35,Male,부산,Naver,Social Login,3
+1554,51,Female,울산,Naver,Social Login,3
+1555,26,Female,울산,Naver,Social Login,2
+1556,21,Male,기타 지방,-,Phone Signup,0
+1557,24,Male,광주,Google(Gmail),Social Login,2
+1558,32,Male,대구,-,Email Signup,0
+1559,20,Male,부산,Naver,Social Login,1
+1560,43,Female,대전,Naver,Social Login,3
+1561,26,Female,부산,KakaoTalk,Social Login,3
+1562,34,Male,대전,KakaoTalk,Social Login,2
+1563,32,Female,기타 지방,Naver,Social Login,3
+1564,24,Male,기타 지방,Naver,Social Login,2
+1565,27,Male,서울,-,Phone Signup,0
+1566,58,Male,대전,Naver,Social Login,1
+1567,47,Male,경기,KakaoTalk,Social Login,2
+1568,61,Male,광주,Naver,Social Login,1
+1569,31,Male,인천,KakaoTalk,Social Login,2
+1570,51,Female,광주,-,Email Signup,0
+1571,18,Male,경기,-,Email Signup,0
+1572,18,Male,부산,-,Email Signup,0
+1573,24,Female,대전,KakaoTalk,Social Login,2
+1574,34,Male,부산,Naver,Social Login,2
+1575,26,Male,인천,-,Phone Signup,0
+1576,31,Male,부산,-,Email Signup,0
+1577,59,Male,경기,Naver,Social Login,2
+1578,42,Male,울산,Naver,Social Login,1
+1579,44,Female,경기,KakaoTalk,Social Login,2
+1580,33,Male,경기,Naver,Social Login,3
+1581,21,Male,부산,Google(Gmail),Social Login,1
+1582,42,Male,광주,Naver,Social Login,2
+1583,31,Male,대구,-,Email Signup,0
+1584,24,Male,서울,Google(Gmail),Social Login,3
+1585,32,Male,부산,-,Email Signup,0
+1586,21,Male,대전,Google(Gmail),Social Login,1
+1587,32,Female,기타 지방,KakaoTalk,Social Login,1
+1588,30,Male,서울,-,Email Signup,0
+1589,28,Female,광주,Naver,Social Login,3
+1590,25,Male,기타 지방,Google(Gmail),Social Login,1
+1591,29,Male,울산,Google(Gmail),Social Login,3
+1592,30,Male,대구,-,Phone Signup,0
+1593,21,Female,인천,-,Phone Signup,0
+1594,32,Female,광주,Naver,Social Login,3
+1595,20,Male,서울,Naver,Social Login,2
+1596,28,Male,울산,Google(Gmail),Social Login,2
+1597,64,Male,울산,Naver,Social Login,1
+1598,24,Male,울산,Naver,Social Login,3
+1599,55,Male,광주,Naver,Social Login,2
+1600,34,Male,광주,-,Email Signup,0
+1601,62,Male,인천,Naver,Social Login,1
+1602,30,Male,경기,-,Email Signup,0
+1603,58,Female,대전,-,Email Signup,0
+1604,20,Female,인천,Naver,Social Login,3
+1605,30,Male,대전,-,Email Signup,0
+1606,20,Male,대전,Google(Gmail),Social Login,1
+1607,19,Male,대구,-,Phone Signup,0
+1608,60,Male,울산,Naver,Social Login,2
+1609,37,Female,기타 지방,KakaoTalk,Social Login,3
+1610,24,Male,대전,Google(Gmail),Social Login,1
+1611,24,Male,인천,-,Email Signup,0
+1612,23,Male,경기,Naver,Social Login,3
+1613,49,Male,광주,Naver,Social Login,1
+1614,60,Male,기타 지방,Naver,Social Login,2
+1615,19,Male,대전,-,Email Signup,0
+1616,27,Male,인천,Naver,Social Login,1
+1617,35,Female,서울,-,Email Signup,0
+1618,57,Female,울산,Naver,Social Login,3
+1619,23,Female,대구,Naver,Social Login,1
+1620,23,Female,인천,Naver,Social Login,3
+1621,26,Male,부산,Google(Gmail),Social Login,3
+1622,30,Male,인천,Naver,Social Login,3
+1623,20,Female,인천,Google(Gmail),Social Login,1
+1624,47,Male,광주,-,Email Signup,0
+1625,41,Female,광주,Naver,Social Login,1
+1626,53,Male,부산,Naver,Social Login,2
+1627,30,Male,인천,-,Email Signup,0
+1628,53,Male,울산,Naver,Social Login,1
+1629,32,Male,광주,Naver,Social Login,1
+1630,28,Female,경기,KakaoTalk,Social Login,3
+1631,24,Male,대구,Naver,Social Login,1
+1632,57,Female,대구,Naver,Social Login,3
+1633,33,Male,기타 지방,KakaoTalk,Social Login,3
+1634,25,Female,울산,Naver,Social Login,1
+1635,29,Male,울산,Naver,Social Login,1
+1636,21,Female,대구,KakaoTalk,Social Login,1
+1637,42,Male,대전,KakaoTalk,Social Login,2
+1638,44,Female,인천,Naver,Social Login,1
+1639,20,Male,대전,Naver,Social Login,3
+1640,43,Female,기타 지방,KakaoTalk,Social Login,2
+1641,56,Female,대구,Naver,Social Login,2
+1642,64,Male,서울,Naver,Social Login,3
+1643,18,Male,인천,Naver,Social Login,2
+1644,30,Female,대구,Google(Gmail),Social Login,2
+1645,20,Male,광주,Google(Gmail),Social Login,3
+1646,24,Male,대전,-,Email Signup,0
+1647,27,Female,부산,KakaoTalk,Social Login,3
+1648,22,Male,대구,-,Email Signup,0
+1649,24,Female,기타 지방,Google(Gmail),Social Login,1
+1650,62,Female,대구,-,Email Signup,0
+1651,55,Female,대전,-,Phone Signup,0
+1652,32,Male,대전,-,Phone Signup,0
+1653,43,Female,부산,Naver,Social Login,2
+1654,18,Female,인천,-,Phone Signup,0
+1655,45,Male,부산,-,Phone Signup,0
+1656,61,Male,대전,Naver,Social Login,1
+1657,27,Female,인천,Naver,Social Login,1
+1658,32,Female,서울,Naver,Social Login,1
+1659,51,Female,서울,-,Phone Signup,0
+1660,26,Female,경기,Naver,Social Login,1
+1661,29,Male,광주,Google(Gmail),Social Login,2
+1662,27,Male,울산,-,Email Signup,0
+1663,23,Male,광주,Google(Gmail),Social Login,2
+1664,24,Female,울산,Naver,Social Login,2
+1665,31,Female,인천,KakaoTalk,Social Login,1
+1666,48,Male,기타 지방,-,Email Signup,0
+1667,18,Male,대구,Naver,Social Login,2
+1668,55,Male,기타 지방,-,Email Signup,0
+1669,35,Male,경기,KakaoTalk,Social Login,3
+1670,31,Female,경기,KakaoTalk,Social Login,3
+1671,27,Male,경기,Google(Gmail),Social Login,3
+1672,32,Female,광주,-,Phone Signup,0
+1673,19,Male,기타 지방,Google(Gmail),Social Login,2
+1674,22,Female,서울,Naver,Social Login,1
+1675,62,Female,부산,-,Phone Signup,0
+1676,32,Female,광주,Naver,Social Login,1
+1677,18,Female,광주,KakaoTalk,Social Login,2
+1678,55,Male,대구,Naver,Social Login,2
+1679,32,Male,기타 지방,-,Email Signup,0
+1680,37,Female,서울,Naver,Social Login,3
+1681,25,Male,인천,-,Email Signup,0
+1682,20,Male,경기,Naver,Social Login,2
+1683,42,Male,부산,-,Email Signup,0
+1684,29,Female,경기,Google(Gmail),Social Login,3
+1685,22,Male,울산,Naver,Social Login,1
+1686,24,Male,대구,-,Email Signup,0
+1687,22,Female,대구,KakaoTalk,Social Login,3
+1688,29,Male,경기,Naver,Social Login,1
+1689,33,Female,대구,KakaoTalk,Social Login,2
+1690,53,Female,광주,-,Phone Signup,0
+1691,35,Male,부산,Naver,Social Login,3
+1692,53,Female,부산,Naver,Social Login,2
+1693,31,Female,경기,KakaoTalk,Social Login,2
+1694,34,Female,광주,KakaoTalk,Social Login,1
+1695,36,Female,부산,Naver,Social Login,1
+1696,27,Female,경기,Google(Gmail),Social Login,2
+1697,40,Male,부산,Naver,Social Login,1
+1698,18,Female,대구,Google(Gmail),Social Login,1
+1699,27,Male,경기,-,Email Signup,0
+1700,20,Male,울산,Google(Gmail),Social Login,1
+1701,18,Female,서울,-,Email Signup,0
+1702,26,Female,서울,Naver,Social Login,1
+1703,32,Male,경기,Naver,Social Login,3
+1704,36,Male,부산,-,Phone Signup,0
+1705,26,Male,경기,Google(Gmail),Social Login,2
+1706,24,Female,부산,-,Email Signup,0
+1707,34,Female,경기,KakaoTalk,Social Login,1
+1708,34,Male,대구,KakaoTalk,Social Login,3
+1709,46,Female,인천,Naver,Social Login,2
+1710,31,Male,부산,-,Email Signup,0
+1711,28,Female,경기,Google(Gmail),Social Login,2
+1712,35,Male,기타 지방,KakaoTalk,Social Login,2
+1713,25,Female,대전,Naver,Social Login,1
+1714,31,Male,인천,-,Email Signup,0
+1715,49,Female,울산,-,Email Signup,0
+1716,23,Male,경기,-,Email Signup,0
+1717,21,Female,기타 지방,-,Email Signup,0
+1718,21,Male,기타 지방,Google(Gmail),Social Login,1
+1719,62,Male,경기,Naver,Social Login,1
+1720,22,Male,대구,Google(Gmail),Social Login,2
+1721,56,Female,기타 지방,Naver,Social Login,3
+1722,18,Male,경기,-,Phone Signup,0
+1723,53,Male,경기,-,Email Signup,0
+1724,25,Female,광주,-,Email Signup,0
+1725,48,Female,광주,KakaoTalk,Social Login,2
+1726,21,Female,기타 지방,Google(Gmail),Social Login,3
+1727,35,Male,기타 지방,-,Email Signup,0
+1728,52,Male,울산,-,Phone Signup,0
+1729,53,Male,대구,-,Email Signup,0
+1730,35,Male,대구,KakaoTalk,Social Login,2
+1731,19,Female,경기,KakaoTalk,Social Login,3
+1732,58,Female,울산,Naver,Social Login,1
+1733,35,Male,서울,-,Phone Signup,0
+1734,23,Male,대구,-,Email Signup,0
+1735,27,Male,인천,-,Email Signup,0
+1736,27,Male,서울,-,Email Signup,0
+1737,45,Female,광주,KakaoTalk,Social Login,3
+1738,27,Male,부산,Google(Gmail),Social Login,1
+1739,27,Male,서울,Naver,Social Login,2
+1740,34,Male,대구,Naver,Social Login,1
+1741,19,Female,경기,Google(Gmail),Social Login,3
+1742,20,Male,서울,Naver,Social Login,2
+1743,30,Male,울산,Naver,Social Login,1
+1744,30,Female,기타 지방,Google(Gmail),Social Login,2
+1745,27,Male,서울,Google(Gmail),Social Login,2
+1746,60,Male,기타 지방,-,Phone Signup,0
+1747,20,Male,기타 지방,Google(Gmail),Social Login,3
+1748,40,Male,인천,-,Email Signup,0
+1749,19,Female,대전,Naver,Social Login,2
+1750,33,Male,울산,Naver,Social Login,1
+1751,31,Female,대구,KakaoTalk,Social Login,3
+1752,20,Female,서울,-,Phone Signup,0
+1753,54,Female,인천,-,Phone Signup,0
+1754,33,Male,대구,-,Email Signup,0
+1755,18,Male,울산,Naver,Social Login,2
+1756,49,Female,대구,KakaoTalk,Social Login,3
+1757,35,Female,기타 지방,-,Email Signup,0
+1758,34,Female,서울,KakaoTalk,Social Login,2
+1759,32,Male,부산,KakaoTalk,Social Login,2
+1760,30,Female,경기,Google(Gmail),Social Login,2
+1761,30,Male,광주,Google(Gmail),Social Login,2
+1762,60,Male,경기,-,Email Signup,0
+1763,40,Male,서울,KakaoTalk,Social Login,3
+1764,18,Female,대전,Google(Gmail),Social Login,3
+1765,42,Female,대전,KakaoTalk,Social Login,3
+1766,23,Female,부산,-,Email Signup,0
+1767,28,Male,대전,Google(Gmail),Social Login,2
+1768,18,Male,대구,-,Email Signup,0
+1769,34,Female,기타 지방,-,Email Signup,0
+1770,31,Male,경기,KakaoTalk,Social Login,3
+1771,58,Male,서울,-,Email Signup,0
+1772,24,Male,인천,Naver,Social Login,3
+1773,33,Female,대구,-,Email Signup,0
+1774,21,Male,서울,-,Email Signup,0
+1775,25,Male,기타 지방,Naver,Social Login,1
+1776,44,Male,서울,Naver,Social Login,2
+1777,29,Male,기타 지방,-,Email Signup,0
+1778,65,Male,경기,-,Email Signup,0
+1779,19,Female,대전,Naver,Social Login,1
+1780,40,Female,대전,KakaoTalk,Social Login,1
+1781,19,Female,서울,KakaoTalk,Social Login,2
+1782,59,Male,서울,Naver,Social Login,1
+1783,30,Male,경기,-,Email Signup,0
+1784,31,Male,인천,Naver,Social Login,2
+1785,54,Female,경기,Naver,Social Login,1
+1786,30,Female,울산,KakaoTalk,Social Login,3
+1787,32,Female,부산,-,Email Signup,0
+1788,27,Female,부산,Google(Gmail),Social Login,1
+1789,29,Female,기타 지방,Google(Gmail),Social Login,3
+1790,53,Male,인천,Naver,Social Login,1
+1791,26,Male,대전,-,Email Signup,0
+1792,33,Female,서울,KakaoTalk,Social Login,3
+1793,61,Female,대전,-,Phone Signup,0
+1794,19,Female,광주,KakaoTalk,Social Login,3
+1795,38,Male,기타 지방,KakaoTalk,Social Login,3
+1796,29,Male,경기,-,Email Signup,0
+1797,39,Male,대구,KakaoTalk,Social Login,2
+1798,20,Female,부산,KakaoTalk,Social Login,2
+1799,35,Female,대구,Naver,Social Login,1
+1800,27,Male,인천,Google(Gmail),Social Login,2
+1801,53,Male,광주,Naver,Social Login,1
+1802,61,Female,울산,-,Phone Signup,0
+1803,23,Male,광주,Naver,Social Login,1
+1804,25,Male,기타 지방,Naver,Social Login,2
+1805,27,Female,광주,Google(Gmail),Social Login,1
+1806,23,Male,서울,Google(Gmail),Social Login,3
+1807,30,Female,경기,Naver,Social Login,3
+1808,24,Male,울산,Naver,Social Login,1
+1809,58,Female,광주,Naver,Social Login,1
+1810,50,Male,서울,KakaoTalk,Social Login,1
+1811,24,Female,광주,-,Phone Signup,0
+1812,28,Female,광주,KakaoTalk,Social Login,3
+1813,19,Male,기타 지방,Naver,Social Login,3
+1814,28,Female,서울,-,Email Signup,0
+1815,26,Male,인천,Google(Gmail),Social Login,2
+1816,30,Male,서울,-,Email Signup,0
+1817,23,Female,대전,Naver,Social Login,1
+1818,36,Male,부산,Naver,Social Login,3
+1819,54,Male,기타 지방,Naver,Social Login,3
+1820,18,Male,대전,Naver,Social Login,1
+1821,25,Female,광주,-,Email Signup,0
+1822,32,Male,서울,Naver,Social Login,3
+1823,26,Male,부산,Naver,Social Login,2
+1824,29,Female,광주,Naver,Social Login,2
+1825,65,Female,광주,-,Email Signup,0
+1826,46,Male,부산,KakaoTalk,Social Login,2
+1827,34,Female,부산,KakaoTalk,Social Login,3
+1828,34,Male,울산,KakaoTalk,Social Login,3
+1829,27,Female,대전,Google(Gmail),Social Login,3
+1830,32,Female,광주,KakaoTalk,Social Login,3
+1831,54,Male,부산,Naver,Social Login,2
+1832,25,Female,광주,Google(Gmail),Social Login,3
+1833,35,Female,대전,Naver,Social Login,1
+1834,23,Female,대구,Naver,Social Login,3
+1835,32,Female,기타 지방,KakaoTalk,Social Login,3
+1836,20,Female,인천,-,Phone Signup,0
+1837,33,Female,인천,-,Phone Signup,0
+1838,24,Female,경기,KakaoTalk,Social Login,3
+1839,35,Female,부산,KakaoTalk,Social Login,3
+1840,31,Female,서울,KakaoTalk,Social Login,3
+1841,34,Female,울산,-,Email Signup,0
+1842,23,Male,대전,Naver,Social Login,2
+1843,33,Female,광주,Naver,Social Login,1
+1844,30,Male,인천,Google(Gmail),Social Login,3
+1845,30,Female,경기,Naver,Social Login,1
+1846,38,Male,인천,Naver,Social Login,1
+1847,34,Male,부산,KakaoTalk,Social Login,3
+1848,31,Female,대전,-,Phone Signup,0
+1849,26,Female,광주,-,Email Signup,0
+1850,21,Female,서울,Google(Gmail),Social Login,1
+1851,31,Male,울산,Naver,Social Login,3
+1852,46,Female,부산,Naver,Social Login,1
+1853,22,Female,광주,Naver,Social Login,3
+1854,29,Female,기타 지방,-,Phone Signup,0
+1855,65,Male,대구,-,Phone Signup,0
+1856,21,Female,기타 지방,KakaoTalk,Social Login,1
+1857,23,Female,경기,KakaoTalk,Social Login,1
+1858,52,Male,서울,Naver,Social Login,3
+1859,26,Male,서울,Google(Gmail),Social Login,3
+1860,28,Female,대전,Naver,Social Login,1
+1861,27,Male,부산,Naver,Social Login,3
+1862,20,Male,부산,Naver,Social Login,3
+1863,25,Female,광주,-,Email Signup,0
+1864,26,Male,대전,Naver,Social Login,2
+1865,55,Male,기타 지방,-,Email Signup,0
+1866,33,Male,부산,-,Email Signup,0
+1867,52,Female,인천,-,Email Signup,0
+1868,49,Male,울산,-,Phone Signup,0
+1869,42,Female,울산,Naver,Social Login,2
+1870,27,Male,광주,Google(Gmail),Social Login,3
+1871,18,Male,광주,-,Phone Signup,0
+1872,18,Female,인천,Naver,Social Login,1
+1873,31,Male,부산,KakaoTalk,Social Login,3
+1874,28,Male,기타 지방,Google(Gmail),Social Login,2
+1875,26,Female,광주,KakaoTalk,Social Login,3
+1876,34,Female,부산,Naver,Social Login,1
+1877,32,Female,대구,Naver,Social Login,1
+1878,20,Male,부산,Naver,Social Login,1
+1879,28,Male,부산,Google(Gmail),Social Login,2
+1880,52,Female,서울,Naver,Social Login,1
+1881,58,Male,광주,Naver,Social Login,1
+1882,25,Female,서울,-,Email Signup,0
+1883,32,Female,울산,KakaoTalk,Social Login,1
+1884,19,Male,부산,-,Phone Signup,0
+1885,31,Male,울산,Naver,Social Login,2
+1886,52,Male,인천,Naver,Social Login,2
+1887,50,Female,기타 지방,KakaoTalk,Social Login,3
+1888,43,Male,서울,Naver,Social Login,1
+1889,35,Female,인천,Naver,Social Login,2
+1890,64,Female,대구,Naver,Social Login,2
+1891,53,Female,기타 지방,Naver,Social Login,3
+1892,31,Female,대전,KakaoTalk,Social Login,1
+1893,26,Male,경기,Naver,Social Login,1
+1894,22,Male,대전,-,Phone Signup,0
+1895,34,Male,기타 지방,-,Email Signup,0
+1896,23,Male,서울,Google(Gmail),Social Login,2
+1897,21,Female,부산,Naver,Social Login,3
+1898,49,Female,서울,KakaoTalk,Social Login,3
+1899,58,Male,부산,-,Email Signup,0
+1900,27,Female,대전,-,Email Signup,0
+1901,51,Female,울산,Naver,Social Login,1
+1902,62,Female,경기,Naver,Social Login,3
+1903,31,Male,기타 지방,KakaoTalk,Social Login,3
+1904,19,Male,인천,Naver,Social Login,2
+1905,28,Female,대구,-,Phone Signup,0
+1906,31,Female,대전,-,Email Signup,0
+1907,18,Female,서울,-,Email Signup,0
+1908,53,Male,대전,Naver,Social Login,2
+1909,40,Female,대구,Naver,Social Login,2
+1910,29,Male,부산,Google(Gmail),Social Login,3
+1911,22,Female,광주,Naver,Social Login,3
+1912,18,Female,부산,KakaoTalk,Social Login,2
+1913,23,Male,울산,Naver,Social Login,2
+1914,27,Male,울산,Naver,Social Login,3
+1915,28,Male,경기,Google(Gmail),Social Login,2
+1916,25,Male,대구,Google(Gmail),Social Login,1
+1917,28,Male,부산,-,Email Signup,0
+1918,21,Female,기타 지방,Naver,Social Login,1
+1919,18,Male,서울,Naver,Social Login,1
+1920,29,Male,대구,-,Email Signup,0
+1921,19,Female,기타 지방,Google(Gmail),Social Login,3
+1922,47,Female,서울,Naver,Social Login,2
+1923,20,Female,경기,-,Email Signup,0
+1924,27,Female,기타 지방,KakaoTalk,Social Login,2
+1925,29,Male,경기,-,Phone Signup,0
+1926,24,Male,광주,Google(Gmail),Social Login,3
+1927,30,Female,기타 지방,Google(Gmail),Social Login,3
+1928,29,Male,울산,-,Email Signup,0
+1929,23,Female,대구,KakaoTalk,Social Login,1
+1930,29,Male,부산,-,Email Signup,0
+1931,28,Male,서울,-,Email Signup,0
+1932,24,Male,울산,-,Phone Signup,0
+1933,29,Male,인천,Naver,Social Login,2
+1934,55,Female,대전,Naver,Social Login,2
+1935,30,Male,기타 지방,Google(Gmail),Social Login,2
+1936,60,Female,광주,Naver,Social Login,1
+1937,44,Male,기타 지방,KakaoTalk,Social Login,1
+1938,18,Male,대구,Google(Gmail),Social Login,2
+1939,52,Female,인천,Naver,Social Login,1
+1940,36,Female,대구,Naver,Social Login,1
+1941,22,Male,대전,Naver,Social Login,2
+1942,23,Male,대구,Naver,Social Login,1
+1943,21,Female,인천,KakaoTalk,Social Login,2
+1944,47,Female,기타 지방,-,Phone Signup,0
+1945,31,Male,서울,Naver,Social Login,2
+1946,20,Male,기타 지방,Google(Gmail),Social Login,3
+1947,26,Male,울산,Naver,Social Login,3
+1948,42,Male,인천,Naver,Social Login,1
+1949,30,Female,대구,-,Phone Signup,0
+1950,58,Female,대전,Naver,Social Login,1
+1951,18,Female,대전,-,Email Signup,0
+1952,50,Male,대전,-,Phone Signup,0
+1953,24,Male,기타 지방,-,Email Signup,0
+1954,35,Male,대구,KakaoTalk,Social Login,3
+1955,35,Female,인천,KakaoTalk,Social Login,3
+1956,28,Male,경기,Naver,Social Login,1
+1957,25,Male,기타 지방,-,Email Signup,0
+1958,27,Male,경기,Google(Gmail),Social Login,1
+1959,41,Male,광주,-,Phone Signup,0
+1960,32,Male,경기,-,Email Signup,0
+1961,50,Male,대구,KakaoTalk,Social Login,1
+1962,19,Male,광주,Google(Gmail),Social Login,1
+1963,29,Female,울산,KakaoTalk,Social Login,3
+1964,25,Male,서울,-,Email Signup,0
+1965,23,Male,울산,Google(Gmail),Social Login,3
+1966,18,Female,서울,Naver,Social Login,2
+1967,30,Male,서울,Google(Gmail),Social Login,1
+1968,20,Male,기타 지방,Naver,Social Login,1
+1969,63,Male,경기,-,Email Signup,0
+1970,33,Female,기타 지방,KakaoTalk,Social Login,2
+1971,35,Male,대구,Naver,Social Login,2
+1972,25,Male,대구,Google(Gmail),Social Login,2
+1973,22,Female,경기,Google(Gmail),Social Login,1
+1974,33,Male,대전,KakaoTalk,Social Login,1
+1975,44,Female,인천,-,Phone Signup,0
+1976,57,Male,부산,Naver,Social Login,3
+1977,22,Female,대전,-,Email Signup,0
+1978,19,Male,대구,Google(Gmail),Social Login,3
+1979,58,Female,대전,Naver,Social Login,1
+1980,26,Male,인천,-,Email Signup,0
+1981,19,Female,대구,-,Phone Signup,0
+1982,35,Male,경기,Naver,Social Login,1
+1983,32,Female,기타 지방,Naver,Social Login,2
+1984,54,Male,부산,-,Phone Signup,0
+1985,52,Male,기타 지방,Naver,Social Login,3
+1986,51,Male,경기,-,Email Signup,0
+1987,33,Male,울산,Naver,Social Login,1
+1988,45,Female,서울,Naver,Social Login,2
+1989,25,Female,경기,Naver,Social Login,2
+1990,26,Male,경기,Google(Gmail),Social Login,1
+1991,34,Female,기타 지방,Naver,Social Login,1
+1992,18,Female,서울,KakaoTalk,Social Login,1
+1993,23,Male,인천,Naver,Social Login,1
+1994,20,Male,대구,Naver,Social Login,3
+1995,35,Male,경기,Naver,Social Login,2
+1996,22,Female,인천,Naver,Social Login,2
+1997,31,Female,대전,KakaoTalk,Social Login,3
+1998,65,Female,인천,Naver,Social Login,3
+1999,21,Female,대전,Google(Gmail),Social Login,3
+2000,62,Male,대구,-,Phone Signup,0
+2001,28,Female,인천,-,Email Signup,0
+2006,65,Male,경기,Naver,Social Login,2
+2007,59,Female,경기,Naver,Social Login,3
+2008,18,Male,기타 지방,Naver,Social Login,3
+2009,64,Male,광주,Naver,Social Login,1
+2013,54,Female,울산,Naver,Social Login,3
+2014,30,Male,부산,Google(Gmail),Social Login,3
+2016,21,Female,부산,-,Email Signup,0
+2017,32,Female,서울,KakaoTalk,Social Login,2
+2021,29,Male,울산,-,Phone Signup,0
+2024,31,Female,울산,KakaoTalk,Social Login,2
+2025,32,Female,광주,KakaoTalk,Social Login,3
+2028,34,Male,서울,KakaoTalk,Social Login,3
+2030,62,Female,기타 지방,Naver,Social Login,3
+2032,25,Female,대구,KakaoTalk,Social Login,2
+2034,32,Female,경기,Naver,Social Login,3
+2036,34,Female,대전,KakaoTalk,Social Login,1
+2040,35,Female,인천,KakaoTalk,Social Login,3
+2041,29,Male,경기,-,Phone Signup,0
+2046,24,Male,경기,Naver,Social Login,3
+2047,46,Female,기타 지방,-,Email Signup,0
+2052,34,Male,부산,Naver,Social Login,2
+2053,28,Female,울산,Naver,Social Login,1
+2054,19,Male,기타 지방,Naver,Social Login,3
+2057,19,Female,경기,Google(Gmail),Social Login,3
+2058,18,Male,광주,Naver,Social Login,3
+2059,20,Female,인천,-,Email Signup,0
+2060,27,Male,경기,Google(Gmail),Social Login,2
+2063,18,Female,기타 지방,Naver,Social Login,2
+2065,51,Male,경기,-,Email Signup,0
+2067,60,Male,인천,Naver,Social Login,3
+2080,28,Female,대구,Naver,Social Login,2
+2081,19,Female,경기,-,Phone Signup,0
+2083,30,Female,부산,Naver,Social Login,3
+2084,48,Male,기타 지방,KakaoTalk,Social Login,3
+2086,25,Male,경기,-,Email Signup,0
+2088,30,Male,광주,Google(Gmail),Social Login,3
+2090,20,Female,경기,Naver,Social Login,2
+2091,28,Female,부산,-,Email Signup,0
+2093,33,Male,기타 지방,Naver,Social Login,1
+2095,25,Male,기타 지방,Google(Gmail),Social Login,1
+2097,24,Female,광주,-,Email Signup,0
+2100,20,Male,울산,Naver,Social Login,2
+2102,26,Male,인천,-,Email Signup,0
+2103,29,Female,대전,Naver,Social Login,1
+2104,25,Male,대전,Google(Gmail),Social Login,2
+2106,27,Male,대전,Google(Gmail),Social Login,1
+2107,58,Male,광주,Naver,Social Login,3
+2112,31,Female,기타 지방,KakaoTalk,Social Login,1
+2115,50,Female,인천,Naver,Social Login,2
+2116,18,Male,경기,Google(Gmail),Social Login,2
+2118,26,Female,서울,Naver,Social Login,3
+2119,31,Male,울산,KakaoTalk,Social Login,1
+2121,62,Female,대구,Naver,Social Login,2
+2122,28,Female,부산,-,Phone Signup,0
+2123,26,Female,인천,Google(Gmail),Social Login,2
+2124,42,Male,대전,Naver,Social Login,3
+2125,44,Male,대구,-,Email Signup,0
+2126,20,Female,서울,-,Phone Signup,0
+2127,55,Male,인천,Naver,Social Login,2
+2128,47,Male,대구,-,Phone Signup,0
+2129,20,Male,서울,Google(Gmail),Social Login,3
+2130,39,Male,광주,-,Phone Signup,0
+2131,25,Female,울산,Google(Gmail),Social Login,3
+2135,53,Male,부산,Naver,Social Login,2
+2136,19,Male,광주,Naver,Social Login,3
+2137,22,Male,대구,Google(Gmail),Social Login,3
+2139,43,Male,기타 지방,KakaoTalk,Social Login,3
+2140,61,Male,경기,-,Phone Signup,0
+2141,23,Female,경기,KakaoTalk,Social Login,3
+2142,24,Male,서울,Naver,Social Login,1
+2143,35,Male,경기,-,Phone Signup,0
+2144,23,Male,인천,Google(Gmail),Social Login,2
+2145,20,Female,울산,Naver,Social Login,3
+2148,31,Male,서울,KakaoTalk,Social Login,1
+2150,39,Female,부산,Naver,Social Login,3
+2151,46,Female,경기,-,Email Signup,0
+2157,29,Male,경기,Google(Gmail),Social Login,2
+2159,23,Female,부산,Google(Gmail),Social Login,2
+2160,58,Female,서울,-,Email Signup,0
+2162,18,Female,경기,-,Email Signup,0
+2165,33,Male,광주,Naver,Social Login,3
+2173,35,Male,경기,Naver,Social Login,2
+2174,35,Male,경기,KakaoTalk,Social Login,1
+2175,33,Male,대구,-,Email Signup,0
+2176,27,Female,대구,-,Phone Signup,0
+2178,23,Male,부산,Naver,Social Login,2
+2179,24,Female,기타 지방,Google(Gmail),Social Login,3
+2180,20,Male,부산,Google(Gmail),Social Login,2
+2183,28,Male,기타 지방,-,Phone Signup,0
+2184,35,Female,울산,KakaoTalk,Social Login,2
+2188,26,Male,울산,Google(Gmail),Social Login,2
+2196,49,Female,대구,KakaoTalk,Social Login,1
+2197,47,Female,인천,Naver,Social Login,2
+2198,23,Male,대전,Naver,Social Login,1
+2200,22,Female,인천,Naver,Social Login,1
+2201,26,Female,경기,-,Phone Signup,0
+2203,29,Female,서울,Google(Gmail),Social Login,3
+2206,32,Female,대전,KakaoTalk,Social Login,3
+2207,35,Male,대전,KakaoTalk,Social Login,2
+2209,49,Male,부산,-,Email Signup,0
+2211,18,Male,광주,Naver,Social Login,2
+2213,42,Male,울산,-,Phone Signup,0
+2214,44,Male,인천,KakaoTalk,Social Login,3
+2216,26,Male,부산,Google(Gmail),Social Login,1
+2217,34,Male,서울,-,Email Signup,0
+2218,35,Male,서울,Naver,Social Login,1
+2220,33,Male,기타 지방,Naver,Social Login,1
+2221,54,Male,대전,Naver,Social Login,1
+2223,18,Female,부산,KakaoTalk,Social Login,3
+2224,26,Female,경기,KakaoTalk,Social Login,1
+2225,33,Male,서울,Naver,Social Login,1
+2228,18,Male,부산,Google(Gmail),Social Login,1
+2229,63,Female,울산,Naver,Social Login,3
+2231,34,Male,대전,-,Phone Signup,0
+2233,41,Female,광주,Naver,Social Login,1
+2234,27,Female,서울,Google(Gmail),Social Login,3
+2235,50,Female,서울,Naver,Social Login,3
+2236,39,Female,경기,KakaoTalk,Social Login,2
+2244,53,Male,대전,Naver,Social Login,2
+2249,18,Female,부산,Google(Gmail),Social Login,2
+2251,39,Female,경기,Naver,Social Login,3
+2252,31,Male,광주,Naver,Social Login,3
+2253,32,Female,인천,-,Phone Signup,0
+2254,21,Female,경기,-,Phone Signup,0
+2256,19,Male,광주,-,Email Signup,0
+2257,34,Male,울산,Naver,Social Login,3
+2258,29,Male,경기,Naver,Social Login,3
+2260,31,Female,기타 지방,Naver,Social Login,1
+2264,22,Male,울산,Google(Gmail),Social Login,1
+2267,28,Male,인천,-,Email Signup,0
+2269,59,Female,대전,-,Email Signup,0
+2270,20,Female,울산,-,Email Signup,0
+2271,51,Male,서울,Naver,Social Login,1
+2272,55,Male,서울,Naver,Social Login,1
+2274,25,Male,광주,-,Phone Signup,0
+2276,55,Male,경기,Naver,Social Login,2
+2278,23,Male,인천,-,Phone Signup,0
+2282,20,Male,대전,Google(Gmail),Social Login,3
+2284,35,Female,광주,-,Email Signup,0
+2286,21,Female,대구,Google(Gmail),Social Login,2
+2287,21,Male,대전,Google(Gmail),Social Login,1
+2288,21,Female,인천,-,Email Signup,0
+2289,21,Male,광주,Google(Gmail),Social Login,2
+2291,39,Female,대구,Naver,Social Login,2
+2292,49,Female,기타 지방,Naver,Social Login,1
+2293,42,Female,인천,-,Phone Signup,0
+2294,18,Male,기타 지방,-,Email Signup,0
+2297,21,Male,광주,Naver,Social Login,1
+2299,26,Female,대구,KakaoTalk,Social Login,2
+2300,65,Female,경기,Naver,Social Login,3
+2302,56,Female,기타 지방,Naver,Social Login,3
+2303,33,Male,기타 지방,-,Email Signup,0
+2305,38,Female,경기,KakaoTalk,Social Login,1
+2307,48,Male,기타 지방,-,Email Signup,0
+2308,24,Female,대전,-,Email Signup,0
+2309,35,Male,서울,KakaoTalk,Social Login,1
+2310,52,Male,경기,Naver,Social Login,1
+2312,31,Female,광주,Naver,Social Login,3
+2315,42,Female,대구,Naver,Social Login,2
+2319,23,Female,광주,Naver,Social Login,3
+2321,25,Male,울산,Google(Gmail),Social Login,3
+2324,18,Female,인천,KakaoTalk,Social Login,1
+2326,30,Female,경기,KakaoTalk,Social Login,2
+2331,55,Female,대전,Naver,Social Login,2
+2333,55,Male,서울,Naver,Social Login,2
+2335,24,Female,인천,Google(Gmail),Social Login,3
+2337,29,Male,대구,Naver,Social Login,3
+2342,31,Male,광주,KakaoTalk,Social Login,3
+2343,25,Female,인천,-,Phone Signup,0
+2346,21,Male,광주,Naver,Social Login,3
+2352,65,Female,대구,Naver,Social Login,1
+2353,32,Male,대구,Naver,Social Login,3
+2358,21,Female,광주,KakaoTalk,Social Login,3
+2360,23,Female,대전,Google(Gmail),Social Login,1
+2361,56,Male,부산,-,Email Signup,0
+2362,32,Female,경기,-,Email Signup,0
+2363,35,Male,울산,KakaoTalk,Social Login,2
+2365,30,Female,광주,-,Email Signup,0
+2366,18,Male,인천,-,Email Signup,0
+2368,29,Female,울산,Naver,Social Login,1
+2370,23,Female,인천,-,Email Signup,0
+2372,35,Female,인천,KakaoTalk,Social Login,2
+2374,20,Male,광주,Naver,Social Login,3
+2377,18,Male,인천,Naver,Social Login,3
+2378,18,Female,인천,Google(Gmail),Social Login,3
+2379,31,Female,부산,KakaoTalk,Social Login,1
+2382,31,Female,대구,-,Email Signup,0
+2385,24,Male,서울,-,Phone Signup,0
+2388,30,Male,광주,Google(Gmail),Social Login,1
+2389,26,Female,인천,KakaoTalk,Social Login,1
+2391,21,Female,대전,Naver,Social Login,2
+2392,18,Female,대전,Google(Gmail),Social Login,1
+2393,26,Female,서울,Naver,Social Login,1
+2394,31,Male,대전,Naver,Social Login,3
+2398,31,Male,기타 지방,-,Email Signup,0
+2399,54,Male,부산,Naver,Social Login,2
+2407,31,Male,대구,Naver,Social Login,2
+2408,18,Female,경기,-,Phone Signup,0
+2413,32,Male,부산,KakaoTalk,Social Login,3
+2415,20,Male,부산,Google(Gmail),Social Login,2
+2418,26,Male,부산,-,Phone Signup,0
+2419,18,Male,기타 지방,Naver,Social Login,3
+2423,22,Male,서울,Naver,Social Login,3
+2425,25,Male,인천,Google(Gmail),Social Login,2
+2427,18,Female,경기,-,Phone Signup,0
+2428,29,Male,대구,-,Email Signup,0
+2434,46,Female,인천,Naver,Social Login,2
+2435,23,Female,대전,KakaoTalk,Social Login,3
+2436,26,Male,대구,Google(Gmail),Social Login,1
+2437,21,Female,부산,-,Email Signup,0
+2441,31,Male,인천,-,Phone Signup,0
+2443,32,Male,광주,KakaoTalk,Social Login,3
+2445,24,Female,서울,-,Phone Signup,0
+2446,23,Male,경기,-,Email Signup,0
+2447,35,Male,울산,Naver,Social Login,1
+2448,20,Male,대전,Google(Gmail),Social Login,3
+2453,20,Female,부산,Naver,Social Login,1
+2455,35,Male,대구,KakaoTalk,Social Login,3
+2456,20,Male,울산,Naver,Social Login,2
+2457,26,Female,대전,-,Email Signup,0
+2458,30,Female,부산,Naver,Social Login,2
+2459,62,Male,경기,Naver,Social Login,3
+2460,40,Female,서울,Naver,Social Login,2
+2462,33,Female,경기,KakaoTalk,Social Login,2
+2463,63,Female,부산,Naver,Social Login,1
+2464,19,Male,부산,-,Phone Signup,0
+2467,40,Female,대구,KakaoTalk,Social Login,2
+2469,45,Male,대구,-,Email Signup,0
+2470,63,Female,경기,-,Email Signup,0
+2471,32,Male,경기,Naver,Social Login,1
+2473,55,Male,울산,-,Email Signup,0
+2474,18,Male,서울,-,Email Signup,0
+2478,31,Female,부산,Naver,Social Login,3
+2479,58,Male,경기,Naver,Social Login,3
+2480,25,Male,경기,Naver,Social Login,3
+2489,21,Male,인천,Google(Gmail),Social Login,2
+2491,23,Male,인천,-,Email Signup,0
+2493,31,Female,대전,Naver,Social Login,3
+2495,29,Male,대구,Google(Gmail),Social Login,1
+2498,22,Male,울산,-,Email Signup,0
+2499,23,Male,부산,-,Email Signup,0
+2500,23,Female,인천,Naver,Social Login,3
+2502,63,Male,울산,-,Email Signup,0
+2504,31,Female,대전,KakaoTalk,Social Login,2
+2507,46,Female,대구,-,Phone Signup,0
+2508,23,Male,인천,Google(Gmail),Social Login,1
+2510,23,Female,대전,Google(Gmail),Social Login,2
+2513,26,Female,경기,KakaoTalk,Social Login,3
+2514,34,Female,울산,Naver,Social Login,1
+2520,23,Male,대구,Google(Gmail),Social Login,3
+2522,27,Female,인천,-,Email Signup,0
+2523,27,Female,기타 지방,Naver,Social Login,3
+2524,30,Female,인천,-,Phone Signup,0
+2526,20,Female,인천,KakaoTalk,Social Login,2
+2528,32,Male,부산,Naver,Social Login,2
+2529,58,Male,서울,Naver,Social Login,1
+2533,24,Male,인천,-,Phone Signup,0
+2535,22,Female,광주,Naver,Social Login,1
+2536,22,Male,대구,Google(Gmail),Social Login,2
+2537,59,Male,부산,-,Email Signup,0
+2538,21,Male,울산,-,Email Signup,0
+2540,18,Female,울산,Naver,Social Login,3
+2541,42,Male,울산,Naver,Social Login,3
+2543,55,Male,인천,Naver,Social Login,2
+2545,41,Male,울산,-,Phone Signup,0
+2551,24,Male,경기,Naver,Social Login,1
+2554,34,Male,경기,-,Email Signup,0
+2556,28,Female,서울,Naver,Social Login,3
+2558,27,Female,대전,KakaoTalk,Social Login,2
+2562,34,Male,대전,Naver,Social Login,2
+2563,31,Male,울산,KakaoTalk,Social Login,3
+2564,49,Male,경기,-,Phone Signup,0
+2565,58,Male,광주,-,Phone Signup,0
+2566,57,Female,부산,Naver,Social Login,3
+2567,21,Male,인천,-,Email Signup,0
+2570,31,Female,경기,KakaoTalk,Social Login,2
+2572,28,Male,서울,Naver,Social Login,2
+2573,24,Male,기타 지방,Google(Gmail),Social Login,2
+2575,28,Female,서울,KakaoTalk,Social Login,1
+2576,22,Male,기타 지방,Google(Gmail),Social Login,1
+2577,38,Male,서울,-,Email Signup,0
+2583,25,Male,기타 지방,Naver,Social Login,3
+2584,58,Male,부산,Naver,Social Login,1
+2586,23,Female,인천,-,Email Signup,0
+2587,49,Female,울산,-,Email Signup,0
+2589,30,Male,기타 지방,Naver,Social Login,2
+2590,58,Male,광주,Naver,Social Login,1
+2592,18,Male,울산,Google(Gmail),Social Login,3
+2593,27,Male,광주,Naver,Social Login,3
+2594,29,Male,경기,Naver,Social Login,2
+2595,28,Male,서울,Naver,Social Login,1
+2596,26,Male,광주,Google(Gmail),Social Login,3
+2598,43,Female,서울,KakaoTalk,Social Login,2
+2599,31,Female,인천,Naver,Social Login,1
+2600,26,Male,기타 지방,Naver,Social Login,1
+2604,26,Female,울산,KakaoTalk,Social Login,2
+2606,47,Female,대구,Naver,Social Login,3
+2609,35,Female,대전,KakaoTalk,Social Login,2
+2610,27,Female,서울,-,Phone Signup,0
+2612,24,Female,서울,Naver,Social Login,3
+2615,52,Female,대구,-,Phone Signup,0
+2617,22,Female,광주,Google(Gmail),Social Login,1
+2621,21,Male,서울,Google(Gmail),Social Login,2
+2623,23,Male,기타 지방,Google(Gmail),Social Login,2
+2625,24,Male,대전,Naver,Social Login,3
+2627,31,Male,인천,Naver,Social Login,1
+2629,56,Female,서울,Naver,Social Login,1
+2630,33,Female,부산,Naver,Social Login,3
+2635,29,Male,부산,-,Email Signup,0
+2638,36,Female,대구,KakaoTalk,Social Login,3
+2639,34,Male,서울,KakaoTalk,Social Login,3
+2640,21,Female,서울,Google(Gmail),Social Login,2
+2641,23,Female,기타 지방,Naver,Social Login,3
+2643,19,Female,경기,Naver,Social Login,1
+2644,26,Male,서울,Google(Gmail),Social Login,3
+2645,29,Male,대전,Google(Gmail),Social Login,1
+2648,40,Female,경기,Naver,Social Login,3
+2649,37,Male,광주,KakaoTalk,Social Login,2
+2650,33,Female,대구,Naver,Social Login,3
+2653,27,Female,경기,Naver,Social Login,2
+2655,23,Male,기타 지방,Google(Gmail),Social Login,2
+2658,33,Female,인천,Naver,Social Login,1
+2661,32,Female,광주,-,Email Signup,0
+2662,32,Female,광주,Naver,Social Login,1
+2663,30,Female,대구,Naver,Social Login,3
+2668,21,Male,광주,Google(Gmail),Social Login,2
+2669,22,Female,인천,-,Phone Signup,0
+2670,39,Female,기타 지방,KakaoTalk,Social Login,3
+2675,41,Female,대전,KakaoTalk,Social Login,2
+2677,59,Male,부산,Naver,Social Login,1
+2678,39,Female,경기,Naver,Social Login,3
+2680,34,Male,경기,KakaoTalk,Social Login,1
+2683,44,Male,서울,Naver,Social Login,1
+2684,37,Male,울산,KakaoTalk,Social Login,3
+2685,35,Male,대전,KakaoTalk,Social Login,1
+2686,54,Female,부산,Naver,Social Login,3
+2687,37,Male,경기,Naver,Social Login,3
+2693,35,Male,인천,-,Email Signup,0
+2695,52,Male,서울,-,Email Signup,0
+2696,19,Male,부산,Google(Gmail),Social Login,2
+2697,32,Female,인천,Naver,Social Login,2
+2698,41,Female,인천,Naver,Social Login,3
+2703,32,Male,부산,KakaoTalk,Social Login,1
+2704,56,Female,인천,Naver,Social Login,2
+2706,22,Male,울산,Naver,Social Login,1
+2707,40,Male,경기,-,Phone Signup,0
+2712,34,Female,대구,-,Email Signup,0
+2716,27,Female,대전,KakaoTalk,Social Login,2
+2718,63,Male,기타 지방,Naver,Social Login,3
+2719,18,Male,기타 지방,Google(Gmail),Social Login,3
+2720,34,Female,서울,Naver,Social Login,2
+2722,18,Male,부산,Google(Gmail),Social Login,2
+2724,22,Female,광주,-,Phone Signup,0
+2725,26,Female,인천,KakaoTalk,Social Login,3
+2728,27,Female,서울,Naver,Social Login,2
+2729,20,Female,대전,-,Email Signup,0
+2734,23,Female,서울,Naver,Social Login,3
+2737,60,Male,부산,Naver,Social Login,3
+2738,22,Male,서울,Naver,Social Login,1
+2740,33,Male,광주,-,Email Signup,0
+2742,35,Male,인천,KakaoTalk,Social Login,2
+2743,24,Male,서울,Naver,Social Login,1
+2744,21,Male,부산,Naver,Social Login,1
+2747,24,Female,기타 지방,-,Email Signup,0
+2749,64,Male,부산,Naver,Social Login,2
+2750,22,Male,인천,Google(Gmail),Social Login,1
+2751,30,Male,기타 지방,Naver,Social Login,3
+2752,20,Male,인천,Google(Gmail),Social Login,3
+2758,23,Male,대구,Naver,Social Login,3
+2759,27,Female,광주,KakaoTalk,Social Login,3
+2762,32,Male,서울,-,Email Signup,0
+2763,30,Male,부산,Naver,Social Login,1
+2766,32,Female,부산,-,Email Signup,0
+2768,29,Female,인천,Naver,Social Login,1
+2770,33,Male,서울,-,Phone Signup,0
+2772,33,Female,인천,-,Phone Signup,0
+2774,28,Female,대구,KakaoTalk,Social Login,2
+2775,34,Female,서울,-,Email Signup,0
+2776,50,Female,대구,-,Email Signup,0
+2777,19,Male,광주,-,Email Signup,0
+2778,35,Male,대구,Naver,Social Login,2
+2779,51,Male,대구,-,Phone Signup,0
+2780,30,Female,대전,Google(Gmail),Social Login,3
+2784,32,Female,울산,-,Email Signup,0
+2787,28,Female,대구,KakaoTalk,Social Login,1
+2788,52,Male,울산,-,Email Signup,0
+2791,54,Male,부산,Naver,Social Login,3
+2792,27,Male,대전,Google(Gmail),Social Login,2
+2795,32,Female,경기,Naver,Social Login,3
+2797,34,Male,부산,Naver,Social Login,3
+2798,30,Male,인천,-,Email Signup,0
+2799,61,Female,부산,Naver,Social Login,3
+2801,22,Female,대전,Naver,Social Login,2
+2806,58,Male,울산,Naver,Social Login,1
+2810,33,Male,경기,Naver,Social Login,3
+2813,46,Female,광주,KakaoTalk,Social Login,2
+2814,51,Male,대전,Naver,Social Login,2
+2817,32,Female,인천,KakaoTalk,Social Login,3
+2818,61,Male,울산,-,Phone Signup,0
+2820,30,Male,울산,Google(Gmail),Social Login,3
+2821,58,Male,대구,Naver,Social Login,1
+2823,27,Male,대구,-,Phone Signup,0
+2824,18,Male,기타 지방,Naver,Social Login,1
+2825,35,Female,경기,-,Email Signup,0
+2826,18,Male,대구,Naver,Social Login,1
+2828,52,Male,대구,-,Email Signup,0
+2832,26,Male,경기,Naver,Social Login,1
+2836,39,Male,대전,-,Email Signup,0
+2837,26,Male,기타 지방,-,Email Signup,0
+2841,53,Male,울산,-,Email Signup,0
+2845,54,Female,대구,Naver,Social Login,1
+2853,22,Female,울산,Google(Gmail),Social Login,3
+2856,22,Male,기타 지방,-,Email Signup,0
+2861,35,Female,대구,Naver,Social Login,2
+2862,23,Male,인천,-,Email Signup,0
+2863,35,Female,대구,-,Email Signup,0
+2864,53,Male,광주,Naver,Social Login,3
+2865,26,Female,울산,KakaoTalk,Social Login,2
+2866,35,Female,인천,-,Email Signup,0
+2867,54,Male,경기,Naver,Social Login,1
+2868,37,Male,대전,KakaoTalk,Social Login,2
+2874,60,Male,부산,Naver,Social Login,2
+2875,25,Male,경기,Naver,Social Login,1
+2877,28,Male,기타 지방,Google(Gmail),Social Login,1
+2879,18,Male,부산,-,Phone Signup,0
+2882,23,Female,대전,KakaoTalk,Social Login,2
+2884,23,Female,부산,KakaoTalk,Social Login,1
+2885,26,Male,대구,Google(Gmail),Social Login,2
+2887,30,Male,기타 지방,Naver,Social Login,2
+2888,29,Male,울산,Naver,Social Login,2
+2889,21,Female,기타 지방,Google(Gmail),Social Login,1
+2890,29,Male,대구,-,Phone Signup,0
+2891,28,Female,인천,KakaoTalk,Social Login,3
+2896,25,Female,인천,Google(Gmail),Social Login,2
+2897,34,Male,울산,Naver,Social Login,2
+2899,60,Female,부산,Naver,Social Login,3
+2900,38,Female,울산,Naver,Social Login,1
+2903,46,Female,대구,-,Phone Signup,0
+2905,53,Male,경기,-,Email Signup,0
+2907,36,Male,울산,KakaoTalk,Social Login,1
+2912,62,Male,광주,Naver,Social Login,3
+2914,26,Male,기타 지방,Google(Gmail),Social Login,1
+2917,24,Male,부산,Google(Gmail),Social Login,3
+2918,20,Male,대구,Naver,Social Login,2
+2919,27,Female,인천,Google(Gmail),Social Login,3
+2920,27,Female,울산,KakaoTalk,Social Login,2
+2922,23,Female,인천,-,Email Signup,0
+2927,32,Female,경기,KakaoTalk,Social Login,2
+2928,30,Female,기타 지방,Naver,Social Login,3
+2929,26,Male,서울,Google(Gmail),Social Login,2
+2930,31,Male,기타 지방,Naver,Social Login,2
+2932,20,Male,기타 지방,Naver,Social Login,3
+2933,24,Male,기타 지방,Google(Gmail),Social Login,2
+2934,54,Male,경기,Naver,Social Login,1
+2936,41,Male,부산,KakaoTalk,Social Login,3
+2938,35,Male,대전,KakaoTalk,Social Login,1
+2940,23,Female,부산,-,Email Signup,0
+2941,21,Male,대구,Google(Gmail),Social Login,3
+2942,27,Female,대구,Naver,Social Login,3
+2945,41,Female,서울,-,Email Signup,0
+2946,29,Male,서울,Naver,Social Login,1
+2947,19,Male,기타 지방,Naver,Social Login,3
+2948,21,Male,인천,-,Phone Signup,0
+2950,30,Male,광주,-,Phone Signup,0
+2951,32,Male,서울,-,Phone Signup,0
+2953,33,Male,인천,Naver,Social Login,1
+2954,33,Female,경기,Naver,Social Login,3
+2957,35,Female,기타 지방,Naver,Social Login,3
+2960,21,Female,울산,Google(Gmail),Social Login,1
+2961,35,Male,인천,KakaoTalk,Social Login,1
+2964,36,Female,광주,KakaoTalk,Social Login,3
+2965,46,Male,인천,Naver,Social Login,2
+2970,35,Female,대전,Naver,Social Login,1
+2971,65,Female,경기,Naver,Social Login,2
+2972,29,Female,부산,Google(Gmail),Social Login,3
+2975,33,Male,부산,KakaoTalk,Social Login,3
+2976,28,Male,부산,Naver,Social Login,1
+2977,21,Female,부산,-,Phone Signup,0
+2978,23,Female,대전,-,Email Signup,0
+2982,29,Female,서울,KakaoTalk,Social Login,2
+2983,28,Male,대전,-,Email Signup,0
+2984,51,Female,부산,Naver,Social Login,2
+2985,50,Female,기타 지방,Naver,Social Login,2
+2988,46,Male,광주,Naver,Social Login,2
+2989,31,Female,부산,-,Email Signup,0
+2990,27,Male,서울,Google(Gmail),Social Login,3
+2992,22,Male,경기,Google(Gmail),Social Login,3
+2994,18,Male,광주,Naver,Social Login,3
+2995,29,Female,인천,KakaoTalk,Social Login,1
+2996,20,Female,광주,Naver,Social Login,2
+2998,34,Female,기타 지방,KakaoTalk,Social Login,3
